@@ -25,3 +25,9 @@ This repository contains a series of tasks aimed at practicing JavaScript DOM ma
 
 7. **Task 7: Real-time Progress Bar**
     - **Objective:** Display a progress bar that updates in real-time, showing the progress of a task, download, or form submission.
+  
+8. **Task 8: Live Search Bar**
+    - **Objective:** Create a search bar that displays live search results as users type, updating the results without requiring a full page reload.
+  
+9. **Task 9: Character Counter**
+    - **Objective:** Build a character counter for a text area or input field, which updates in real-time as the user types.
